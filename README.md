@@ -4,12 +4,7 @@ Organizer of http://BocaJS.org ∞ Microsoft MCP ∞ Author of "How to Win a Hac
 
 
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-🎥 [twitch][twitch] **|**  
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+🏡 [website][website] **|** 🐦 [twitter][twitter] **|** 📺 [youtube][youtube] **|** 📷 [instagram][instagram] **|** 👔 [linkedin][linkedin] **|** 🎥 [twitch][twitch]
 
 
 [website]: https://bocajs.org
