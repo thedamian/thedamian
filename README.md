@@ -1,6 +1,6 @@
 ### Damian Montero 👋
 
-Organizer of http://BocaJS.org ∞ Microsoft MCP ∞ Author of "How to Win a Hackathon" ∞ Good Father ∞ Bad Comedian ∞ Bald Loud Guy
+Organizer of http://BocaJS.org ∞ Microsoft MCP ∞ Author of "How to Win a Hackathon" ∞ Good Father ∞ Bad Comedian ∞ Bald & Loud
 
 
 
