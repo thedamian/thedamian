@@ -1,16 +1,23 @@
-### Hi there 👋
+### Damian Montero 👋
 
-<!--
-**thedamian/thedamian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Organizer of http://BocaJS.org ∞ Microsoft MCP ∞ Author of "How to Win a Hackathon" ∞ Good Father ∞ Bad Comedian ∞ Bald Loud Guy
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📺 [youtube][youtube] **|** 
+🎥 [twitch][twitch] **|**  
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+
+[website]: https://bocajs.org
+[twitter]: https://twitter.com/damianmontero
+[youtube]: https://youtube.com/bocajs
+[twitch]: https://twitch.tv/codesillystuff
+[instagram]: https://instagram.com/damianmontero
+[linkedin]: https://linkedin.com/in/damianmontero
+
+
+<BR> ⚡ Fun fact: I've won 5 hackathons!
