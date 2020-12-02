@@ -10,8 +10,8 @@ Organizer of http://BocaJS.org ∞ Microsoft MCP ∞ Author of "How to Win a Hac
 [website]: https://bocajs.org
 [twitter]: https://twitter.com/damianmontero
 [youtube]: https://youtube.com/bocajs
-[twitch]: https://twitch.tv/codesillystuff
-[instagram]: https://instagram.com/damianmontero
+[twitch]: https://twitch.tv/floridajs
+[instagram]: https://www.instagram.com/damianmontero/
 [linkedin]: https://linkedin.com/in/damianmontero
 
 
